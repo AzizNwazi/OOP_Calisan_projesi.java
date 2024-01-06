@@ -1,4 +1,3 @@
-package Udemy_Calisan_projesi;
 
 // Calisan sınıfı, genel bir çalışanı temsil eder
 public class Calisan {
