@@ -1,4 +1,3 @@
-package Udemy_Calisan_projesi;
 
 // Yazilimci sınıfı, Calisan sınıfından türetilmiş ve yazılımcı özelliklerini içerir
 public class Yazilimci extends Calisan {
