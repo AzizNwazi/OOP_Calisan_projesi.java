@@ -1,4 +1,3 @@
-package Udemy_Calisan_projesi;
 
 import java.util.Scanner;
 
