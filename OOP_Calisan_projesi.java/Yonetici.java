@@ -1,4 +1,3 @@
-package Udemy_Calisan_projesi;
 
 // Yonetici sınıfı, Calisan sınıfından türetilmiş ve yönetici özelliklerini içerir
 public class Yonetici extends Calisan {
